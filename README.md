@@ -58,16 +58,16 @@ BU-BIP/
 
 | İsim | Rol | Sorumluluk Alanları |
 |------|-----|---------------------|
-| **Araştırmacı 1** | Kıdemli Araştırmacı | İP-1 Paket Sorumlusu, İP-4 Araştırmacı |
-| **Araştırmacı 2** | Araştırmacı | İP-1 Araştırmacı, İP-4 Paket Sorumlusu |
-| **Araştırmacı 3** | Araştırmacı | İP-2 Paket Sorumlusu |
-| **Araştırmacı 4** | Araştırmacı | İP-3 Paket Sorumlusu |
+| **Tufan Y. Çiftçioğlu** | Kıdemli Araştırmacı | İP-1 Paket Sorumlusu, İP-4 Araştırmacı |
+| **Engin Demir** | Araştırmacı | İP-1 Araştırmacı, İP-4 Paket Sorumlusu |
+| **Süleyman Var** | Araştırmacı | İP-2 Paket Sorumlusu |
+| **Mehmet Bozdemir** | Araştırmacı | İP-3 Paket Sorumlusu |
 
 ## 📦 İş Paketleri ve Görev Dağılımı
 
 ### İP-1: Veri Toplama ve Ön İşleme
 **Süre:** Ay 1–3  
-**Sorumlular:** Araştırmacı 1 (Paket Sorumlusu), Araştırmacı 2 (Destek Araştırmacı)
+**Sorumlular:** Tufan Y. Çiftçioğlu (Paket Sorumlusu), Engin Demir (Araştırmacı)
 
 **Görevler:**
 - Web scraping sistemlerinin geliştirilmesi
@@ -87,7 +87,7 @@ BU-BIP/
 
 ### İP-2: Dil Modelinin İnce Ayarı (Fine-tuning)
 **Süre:** Ay 2–6  
-**Sorumlular:** Araştırmacı 3 (Paket Sorumlusu), Proje Yürütücüsü (Akademik Danışman)
+**Sorumlular:** Süleyman Var (Paket Sorumlusu), Proje Yürütücüsü (Akademik Danışman)
 
 **Görevler:**
 - Türkçe dil modelinin seçimi ve hazırlanması
@@ -107,7 +107,7 @@ BU-BIP/
 
 ### İP-3: RAG Sisteminin Geliştirilmesi
 **Süre:** Ay 4–7  
-**Sorumlular:** Araştırmacı 4 (Paket Sorumlusu), Proje Yürütücüsü (Akademik Danışman)
+**Sorumlular:** Mehmet Bozdemir (Paket Sorumlusu), Proje Yürütücüsü (Akademik Danışman)
 
 **Görevler:**
 - Vektör veritabanı kurulumu (Qdrant/Pinecone/Weaviate)
@@ -126,7 +126,7 @@ BU-BIP/
 
 ### İP-4: Sistem Entegrasyonu ve Arayüz Geliştirme
 **Süre:** Ay 6–10  
-**Sorumlular:** Araştırmacı 2 (Paket Sorumlusu), Araştırmacı 1 (Destek Araştırmacı)
+**Sorumlular:** Engin Demir (Paket Sorumlusu), Tufan Y. Çiftçioğlu (Araştırmacı)
 
 **Görevler:**
 - Backend API geliştirilmesi (FastAPI/Flask)
@@ -278,8 +278,8 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ## 📧 İletişim
 
-**Proje Yürütücüsü:** [Proje Yöneticisi]  
-**Kurum:** [Üniversite Adı]
+**Proje Yürütücüsü:** [Akademik Danışman]  
+**Ekip İletişim:** GitHub Issues üzerinden
 
 ---
 
