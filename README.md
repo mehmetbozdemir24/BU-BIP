@@ -58,7 +58,7 @@ BU-BIP/
 
 | İsim | Rol | Sorumluluk Alanları |
 |------|-----|---------------------|
-| **Tufan Y. Çiftçioğlu** | Kıdemli Araştırmacı | İP-1 Paket Sorumlusu, İP-4 Araştırmacı |
+| **Tufan Y. Çiftçioğlu** | Araştırmacı | İP-1 Paket Sorumlusu, İP-4 Araştırmacı |
 | **Engin Demir** | Araştırmacı | İP-1 Araştırmacı, İP-4 Paket Sorumlusu |
 | **Süleyman Var** | Araştırmacı | İP-2 Paket Sorumlusu |
 | **Mehmet Bozdemir** | Araştırmacı | İP-3 Paket Sorumlusu |
